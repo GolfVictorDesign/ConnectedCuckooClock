@@ -1,0 +1,6 @@
+[submodule "ConnectedCuckooClockForAndroid"]
+	path = ConnectedCuckooClockForAndroid
+	url = git@github.com:GolfVictorDesign/ConnectedCuckooClockForAndroid.git
+[submodule "ConnectedCuckooClockEsp32"]
+	path = ConnectedCuckooClockEsp32
+	url = git@github.com:GolfVictorDesign/ConnectedCuckooClockEsp32.git
